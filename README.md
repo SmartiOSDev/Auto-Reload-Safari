@@ -1,5 +1,5 @@
 # Auto Reload Safari
-**Auto Reload Safari** is most use to reload Safari browser tab with set timer.
+**Auto Reload Safari** extension is used to refresh window with repeating timer. 
 
 **Download iOS Application**
-
+https://apps.apple.com/us/app/auto-reload-safari/id6463505257
