@@ -1,6 +1,6 @@
 ## Support / Contact
 
-If you have any other questions about an *Auto Reload Safari* app, please contact:
+If you have any other questions about an *Auto Reload Tab* app, please contact:
 
 contactusiosapp@gmail.com OR post your quesitons and any issue on https://github.com/SmartiOSDev/Auto-Reload-Safari/issues
 (Please be patient while waiting for a reply as this is only a 1 man company and some answers to rare problems may require intense research)
