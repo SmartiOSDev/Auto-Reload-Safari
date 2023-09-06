@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Harshad Jadav built the Auto Reload Tab app as a paid app. This SERVICE is provided by Harshad Jadav at some amount and is intended for use as is.
+Harshad Jadav built the Auto Reload Tab app as a paid app. This SERVICE is provided by Harshad Jadav at some cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
